@@ -31,7 +31,7 @@ A **Retrieval-Augmented Generation (RAG)**-based pipeline designed to streamline
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Irwindeep/rag-legal-assistant.git
+   https://github.com/suman-bellam/LegalRAG.git
    cd rag-legal-assistant
    ```
 
