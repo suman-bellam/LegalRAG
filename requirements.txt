@@ -1,0 +1,9 @@
+spacy
+transformers
+sentence-transformers
+pytesseract
+pdfplumber
+pillow
+faiss-cpu
+streamlit
+accelerate
